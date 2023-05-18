@@ -1,4 +1,8 @@
-## Hi there 👋
+## Tools
+
+- Stripe - https://dashboard.stripe.com/test/dashboard
+- MongoDB Atlas - https://cloud.mongodb.com/v2/6465efe93ab61379ddfa60ce#/clusters
+- Figma - https://www.figma.com/file/IZjXKZYukdI7f1Sfdi1R7y/StickerApp?type=design&node-id=0-1
 
 <!--
 
