@@ -7,7 +7,8 @@
 ## References
 
 - Aisticker.md - https://aisticker.md/en/durable-materials-for-custom-stickers/
-- Sticker mule https://www.stickermule.com/custom-stickers
+- Sticker mule - https://www.stickermule.com/custom-stickers
+- Qwertee - https://www.qwertee.com/shop/stickers
 
 <!--
 
